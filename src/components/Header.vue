@@ -32,9 +32,14 @@ export default class Header extends Vue {}
 <style lang="less">
 .title {
   .main {
+    font-family: serif;
+    color: #ff7d7f;
   }
 
   .sub {
+    color: white;
+    font-family: serif;
+    font-variant: all-small-caps;
   }
 }
 </style>

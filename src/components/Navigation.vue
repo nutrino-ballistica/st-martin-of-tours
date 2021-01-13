@@ -22,11 +22,13 @@ export default class Navigation extends Vue {}
   .view {
     display: inline-block;
     padding: 16px;
-    border: 3px solid black;
+    border: 1px solid white;
 
     a {
+      font-family: serif;
+      font-variant: all-small-caps;
       font-weight: bold;
-      color: #2c3e50;
+      color: white;
       text-decoration: none;
 
       &.router-link-exact-active {
