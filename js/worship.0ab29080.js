@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["worship"],{"6f95":function(n,e,t){"use strict";t.r(e);var r=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("p",[n._v("Worship")])},s=[],l=t("2877"),o={},p=Object(l["a"])(o,r,s,!1,null,null,null);e["default"]=p.exports}}]);
+//# sourceMappingURL=worship.0ab29080.js.map
