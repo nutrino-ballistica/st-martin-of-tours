@@ -21,7 +21,7 @@ export default class Navigation extends Vue {}
 
   .view {
     display: inline-block;
-    padding: 16px;
+    padding: 4px 16px;
     border: 1px solid white;
 
     a {

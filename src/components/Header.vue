@@ -1,14 +1,14 @@
 <template>
-  <header>
+  <header class="header">
     <router-link to="/">
-      <img src="@/assets/logo.png" />
+      <img class="logo" src="@/assets/logo.png" />
     </router-link>
 
     <hr />
 
     <section class="title">
-      <h1 class="main">St. Martin of Tours Gnostic Church of Asheville</h1>
-      <h2 class="sub">Part of the Apostolic Church of the Golden Rosy Cross</h2>
+      <h3 class="main">St. Martin of Tours Gnostic Church of Asheville</h3>
+      <h3 class="sub">Part of the Apostolic Church of the Golden Rosy Cross</h3>
     </section>
 
     <hr />
@@ -30,6 +30,10 @@ export default class Header extends Vue {}
 </script>
 
 <style lang="less">
+.logo {
+  width: 100px;
+}
+
 .title {
   .main {
     font-family: serif;

@@ -1,10 +1,14 @@
 <template>
   <div>
-    <Header />
+    <div class="background" />
 
-    <main>
-      <router-view />
-    </main>
+    <div class="app">
+      <Header />
+
+      <main>
+        <router-view />
+      </main>
+    </div>
   </div>
 </template>
 
@@ -26,7 +30,21 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  background-color: #1e2226;
   color: white;
+  background-color: #1e2226;
+}
+
+.background {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  filter: brightness(35%);
+  background: url("./assets/background.jpg") top center/cover no-repeat;
+}
+
+.app {
+  width: 80%;
+  margin: auto auto;
 }
 </style>
