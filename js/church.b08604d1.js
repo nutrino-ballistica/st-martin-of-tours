@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["church"],{"742a":function(n,e,c){"use strict";c.r(e);var t=function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("p",[n._v("Church")])},u=[],r=c("2877"),l={},a=Object(r["a"])(l,t,u,!1,null,null,null);e["default"]=a.exports}}]);
-//# sourceMappingURL=church.afe66646.js.map
+//# sourceMappingURL=church.b08604d1.js.map
