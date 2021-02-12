@@ -30,23 +30,30 @@ import { Vue, Component } from 'vue-property-decorator'
   }
 })
 export default class App extends Vue {
-  public get backgroundClasses (): string[] {
-    const backgrounds = [
-      'christos',
-      'invocation',
-      'judgement',
-      'maria',
-      'martin',
-      'misericordia',
-      'nativity',
-      'parsifal',
-      'pater-noster',
-      'pelican'
-    ]
+  private backgrounds: string[] = [
+    'christos',
+    'invocation',
+    'judgement',
+    'maria',
+    'martin',
+    'misericordia',
+    'nativity',
+    'parsifal',
+    'pater-noster',
+    'pelican'
+  ]
 
-    const random = backgrounds[Math.round(Math.random() * (backgrounds.length - 1))]
+  private random = 'martin'
+
+  created (): void {
+    const length: number = this.backgrounds.length - 1
+    const randomIndex: number = Math.round(Math.random() * length)
+    this.random = this.backgrounds[randomIndex]
+  }
+
+  public get backgroundClasses (): string[] {
     const extras = this.away ? ['shadowed'] : []
-    return ['background', random, ...extras]
+    return ['background', this.random, ...extras]
   }
 
   public get home (): boolean {
