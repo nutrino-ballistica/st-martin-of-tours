@@ -30,6 +30,10 @@ export default class Header extends Vue {}
 </script>
 
 <style lang="less">
+.header {
+  background-image: radial-gradient(rgba(0, 0, 0, 0.25) 25%, rgba(0, 0, 0, 0) 55%);
+}
+
 .logo {
   width: 100px;
 }
@@ -38,6 +42,7 @@ export default class Header extends Vue {}
   .main {
     font-family: serif;
     color: #ff7d7f;
+    text-shadow: 2px 2px 2px #000000;
   }
 
   .sub {
