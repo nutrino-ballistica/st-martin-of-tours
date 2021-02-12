@@ -42,7 +42,7 @@ export default class App extends Vue {
     return !this.isHome
   }
 
-  public get title (): string {
+  public get title (): string | null | undefined {
     return this.$route.name
   }
 
