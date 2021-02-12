@@ -1,12 +1,18 @@
 <template>
-  <div>
+  <div @keydown.esc="goHome">
     <div class="background" />
 
     <div class="app">
-      <Header />
+      <Header v-show="home" />
 
       <main>
-        <router-view />
+        <Dialogue v-show="away">
+          <template #title>
+            {{ title }}
+          </template>
+
+          <router-view />
+        </Dialogue>
       </main>
     </div>
   </div>
@@ -14,14 +20,36 @@
 
 <script lang="ts">
 import Header from '@/components/Header.vue'
+import Dialogue from '@/components/Dialogue.vue'
 import { Vue, Component } from 'vue-property-decorator'
 
 @Component({
   components: {
-    Header
+    Header,
+    Dialogue
   }
 })
-export default class App extends Vue {}
+export default class App extends Vue {
+  public get home (): boolean {
+    return this.isHome
+  }
+
+  private get isHome (): boolean {
+    return this.$route.fullPath === '/'
+  }
+
+  public get away (): boolean {
+    return !this.isHome
+  }
+
+  public get title (): string {
+    return this.$route.name
+  }
+
+  public goHome (): void {
+    this.$router.push('/')
+  }
+}
 </script>
 
 <style lang="less">

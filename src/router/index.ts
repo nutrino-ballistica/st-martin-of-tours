@@ -12,7 +12,7 @@ const routes: Array<RouteConfig> = [
   },
   {
     path: '/church',
-    name: 'Church',
+    name: 'About Us',
 
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route

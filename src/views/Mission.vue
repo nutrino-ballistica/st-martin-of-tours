@@ -1,3 +1,3 @@
 <template>
-  <p>Mission</p>
+  <p>Coming soon!</p>
 </template>
