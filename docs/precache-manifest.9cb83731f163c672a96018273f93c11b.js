@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4d13e76c4a6a86e1b42",
-    "url": "/st-martin-of-tours/css/app.d3a831ce.css"
+    "revision": "e8b0e644a231bed932e7",
+    "url": "/st-martin-of-tours/css/app.0ec582fd.css"
   },
   {
     "revision": "7d18e8ae5ac7e4051f4f",
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/st-martin-of-tours/img/logo.ea311e54.png"
   },
   {
-    "revision": "4b633cbfb4ba9ae724586367bba17621",
+    "revision": "654fff1a3f4d9a69c3b096b1a8036f33",
     "url": "/st-martin-of-tours/index.html"
   },
   {
-    "revision": "d4d13e76c4a6a86e1b42",
-    "url": "/st-martin-of-tours/js/app.464ce768.js"
+    "revision": "e8b0e644a231bed932e7",
+    "url": "/st-martin-of-tours/js/app.6a5c6937.js"
   },
   {
-    "revision": "b88d9102881bbfe0d853",
-    "url": "/st-martin-of-tours/js/chunk-vendors.a375de5f.js"
+    "revision": "a3669cc3eec4de9b1d2c",
+    "url": "/st-martin-of-tours/js/chunk-vendors.8684e4fa.js"
   },
   {
     "revision": "7d18e8ae5ac7e4051f4f",

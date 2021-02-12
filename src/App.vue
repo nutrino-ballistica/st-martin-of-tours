@@ -1,6 +1,6 @@
 <template>
   <div @keydown.esc="goHome">
-    <div class="background" />
+    <div :class="backgroundClasses" />
 
     <div class="app">
       <Header v-show="home" />
@@ -30,6 +30,11 @@ import { Vue, Component } from 'vue-property-decorator'
   }
 })
 export default class App extends Vue {
+  public get backgroundClasses (): string[] {
+    const extras = this.away ? ['shadowed'] : []
+    return ['background', ...extras]
+  }
+
   public get home (): boolean {
     return this.isHome
   }
@@ -69,6 +74,10 @@ html {
   z-index: -1;
   filter: brightness(35%);
   background: url("./assets/background.jpg") top center/cover no-repeat;
+
+  &.shadowed {
+    filter: brightness(20%);
+  }
 }
 
 .app {
