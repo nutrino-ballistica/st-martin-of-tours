@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["worship"],{"6f95":function(n,e,o){"use strict";o.r(e);var t=function(){var n=this,e=n.$createElement,o=n._self._c||e;return o("p",[n._v("Coming soon!")])},s=[],l=o("2877"),r={},u=Object(l["a"])(r,t,s,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=worship.dac7361f.js.map
