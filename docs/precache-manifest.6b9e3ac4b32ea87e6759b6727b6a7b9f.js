@@ -1,9 +1,5 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab32117c9aa721aa61400ae9327dbab3",
-    "url": "/st-martin-of-tours/.index.html.swp"
-  },
-  {
     "revision": "07c7021f204454644834",
     "url": "/st-martin-of-tours/css/app.2df44b9a.css"
   },
