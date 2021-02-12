@@ -28,7 +28,7 @@ export default class Navigation extends Vue {}
     border: 1px solid white;
 
     /* phone: landscape */
-    @media (min-width: 23rem) {
+    @media (min-width: 27rem) {
       display: inline-block;
       padding: 4px 16px;
     }

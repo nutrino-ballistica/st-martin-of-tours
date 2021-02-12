@@ -26,17 +26,14 @@
   padding: 1rem;
 
   /* phone: landscape */
-  @media (min-width: 23rem) {
-    margin: 3rem;
-    padding: 3rem;
-  }
-
-  /* tablet: portrait */
-  @media (min-width: 49rem) {
-    width: 40rem;
+  @media (min-width: 27rem) {
     left: 50%;
+    margin-top: 3rem;
     margin-right: -50%;
     transform: translate(-50%, 0);
+    padding: 3rem;
+    width: 100%;
+    max-width: 40rem;
   }
 
   .close {
