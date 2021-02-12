@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d6b6c76397f1a6c20ed",
-    "url": "/st-martin-of-tours/css/app.afc5f1fd.css"
+    "revision": "17e5fbabe35bdf7eb49a",
+    "url": "/st-martin-of-tours/css/app.2df44b9a.css"
   },
   {
     "revision": "7d18e8ae5ac7e4051f4f",
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/st-martin-of-tours/img/logo.ea311e54.png"
   },
   {
-    "revision": "0b0874c324834723b4a171fa6f3746fb",
+    "revision": "33b6aa6a10b6fa518d599b8f26c4ade2",
     "url": "/st-martin-of-tours/index.html"
   },
   {
-    "revision": "1d6b6c76397f1a6c20ed",
-    "url": "/st-martin-of-tours/js/app.b8a9fb18.js"
+    "revision": "17e5fbabe35bdf7eb49a",
+    "url": "/st-martin-of-tours/js/app.5a0a0f60.js"
   },
   {
     "revision": "a3669cc3eec4de9b1d2c",

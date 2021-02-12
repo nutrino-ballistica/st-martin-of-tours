@@ -19,6 +19,8 @@
   top: 0;
   left: 0;
   background-color: #1e2020;
+  box-sizing: border-box;
+  width: 94vw;
   max-width: 40rem;
 
   /* phone: portrait (default) */
