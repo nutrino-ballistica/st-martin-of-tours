@@ -16,11 +16,28 @@
 .dialogue {
   display: inline-block;
   position: absolute;
-  top: 3rem;
-  left: 25%;
+  top: 0;
+  left: 0;
   background-color: #1e2020;
-  width: 40rem;
-  padding: 2rem;
+  max-width: 40rem;
+
+  /* phone: portrait (default) */
+  margin: 1rem;
+  padding: 1rem;
+
+  /* phone: landscape */
+  @media (min-width: 23rem) {
+    margin: 3rem;
+    padding: 3rem;
+  }
+
+  /* tablet: portrait */
+  @media (min-width: 49rem) {
+    width: 40rem;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, 0);
+  }
 
   .close {
     text-align: right;
@@ -37,4 +54,5 @@
     text-align: left;
   }
 }
+
 </style>

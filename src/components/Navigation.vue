@@ -19,10 +19,19 @@ export default class Navigation extends Vue {}
 .navigation {
   padding: 30px;
 
+  ul {
+    padding-left: 0;
+    list-style-type: none;
+  }
+
   .view {
-    display: inline-block;
-    padding: 4px 16px;
     border: 1px solid white;
+
+    /* phone: landscape */
+    @media (min-width: 23rem) {
+      display: inline-block;
+      padding: 4px 16px;
+    }
 
     a {
       font-family: serif;
