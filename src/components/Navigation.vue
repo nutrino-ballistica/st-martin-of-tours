@@ -26,11 +26,15 @@ export default class Navigation extends Vue {}
 
   .view {
     border: 1px solid white;
+    width: 10rem;
+    margin: auto;
+    padding: 0.5rem 1rem;
 
     /* phone: landscape */
     @media (min-width: 27rem) {
       display: inline-block;
-      padding: 4px 16px;
+      padding: 0.5rem 1.5rem;
+      width: auto;
     }
 
     a {
