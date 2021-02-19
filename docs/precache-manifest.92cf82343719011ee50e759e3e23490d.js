@@ -1,11 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f1fc517d159956a84e3",
+    "revision": "eced5968e61e27ef76bd",
     "url": "/st-martin-of-tours/css/app.1f2b019e.css"
   },
   {
     "revision": "7a55d9a6a59ff85db46b",
     "url": "/st-martin-of-tours/css/church.bae0f005.css"
+  },
+  {
+    "revision": "a3590d2707b339e7a089",
+    "url": "/st-martin-of-tours/css/worship.c3ae8672.css"
   },
   {
     "revision": "38a0aa9c01437a2d301f13f7ec82a817",
@@ -56,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/st-martin-of-tours/img/pelican.a1a26a3b.jpg"
   },
   {
-    "revision": "a589f654ef07067de8f4161620375a0d",
+    "revision": "8691521c795c7c3dc53f81d9d7635017",
     "url": "/st-martin-of-tours/index.html"
   },
   {
-    "revision": "8f1fc517d159956a84e3",
-    "url": "/st-martin-of-tours/js/app.cd036a2c.js"
+    "revision": "eced5968e61e27ef76bd",
+    "url": "/st-martin-of-tours/js/app.2b124118.js"
   },
   {
     "revision": "a3669cc3eec4de9b1d2c",
@@ -80,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/st-martin-of-tours/js/mission.f81b4e79.js"
   },
   {
-    "revision": "255cf8b0266f4f622c6a",
-    "url": "/st-martin-of-tours/js/worship.110f29cd.js"
+    "revision": "a3590d2707b339e7a089",
+    "url": "/st-martin-of-tours/js/worship.e11e168f.js"
   },
   {
     "revision": "70963b76dd51ec3da913d56e325fd536",
