@@ -1,11 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8a979f22ee05c03f920",
+    "revision": "78406fa405bf2ce6cd2e",
     "url": "/css/app.1f2b019e.css"
   },
   {
     "revision": "7a55d9a6a59ff85db46b",
     "url": "/css/church.bae0f005.css"
+  },
+  {
+    "revision": "bfb3eb6ba807bb0b97fe",
+    "url": "/css/contact.706116e4.css"
   },
   {
     "revision": "a3590d2707b339e7a089",
@@ -44,6 +48,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/misericordia.bd049fdf.jpg"
   },
   {
+    "revision": "ff33beb31a846cc3729384958350e659",
+    "url": "/img/mount_athos.ff33beb3.jpg"
+  },
+  {
     "revision": "d318bf38a1c15a3d1309df429dd4abd6",
     "url": "/img/nativity.d318bf38.jpg"
   },
@@ -60,12 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/pelican.a1a26a3b.jpg"
   },
   {
-    "revision": "c62c1f5a897fd026b9e331476091cfc1",
+    "revision": "9a8a19a261911136be28ef25dddb1cfa",
     "url": "/index.html"
   },
   {
-    "revision": "e8a979f22ee05c03f920",
-    "url": "/js/app.dde2dfd6.js"
+    "revision": "78406fa405bf2ce6cd2e",
+    "url": "/js/app.c6298f75.js"
   },
   {
     "revision": "a3669cc3eec4de9b1d2c",
@@ -76,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/church.138c7a43.js"
   },
   {
-    "revision": "514c5ba9f873fae4066a",
-    "url": "/js/contact.80257b08.js"
+    "revision": "bfb3eb6ba807bb0b97fe",
+    "url": "/js/contact.60ff78d5.js"
   },
   {
     "revision": "10c0bbbe003a5f18b867",
