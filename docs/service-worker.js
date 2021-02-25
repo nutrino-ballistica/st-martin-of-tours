@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5c991303796e21bcdeacb39ded5f79ec.js"
+  "/precache-manifest.0d9b87e9837b1c20167a15e6e29df6f7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "st-martin-of-tours"});
