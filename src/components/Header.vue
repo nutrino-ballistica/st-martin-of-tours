@@ -1,7 +1,8 @@
 <template>
   <header class="header">
     <router-link to="/">
-      <img class="logo" src="@/assets/logo.png" />
+      <img class="logo" src="@/assets/logo.png"
+        alt="Apostolic Church of the Golden and Rosy Cross" />
     </router-link>
 
     <hr />
