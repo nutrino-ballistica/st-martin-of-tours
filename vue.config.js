@@ -25,7 +25,7 @@ module.exports = {
     config
       .plugin('html')
       .tap(args => {
-        args[0].title = 'St. Martin of Tours'
+        args[0].title = 'St. Martin of Tours, Gnostic Church of Asheville'
         return args
       })
   }
