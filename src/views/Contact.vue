@@ -1,6 +1,6 @@
 <template>
   <div class="contact">
-    <img class="banner" src="@/assets/mount_athos.jpg" />
+    <img class="banner" src="@/assets/mount_athos.jpg" alt="Mount Athos" />
 
     <p>
       You can reach us via email

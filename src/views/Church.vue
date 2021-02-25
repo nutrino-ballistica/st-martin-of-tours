@@ -1,6 +1,6 @@
 <template>
   <div class="church">
-    <img class="image" src="@/assets/grail.jpg" />
+    <img class="image" src="@/assets/grail.jpg" alt="The Grail" />
     <div class="body">
       <p>
         The Apostolic Church of the Golden &amp; Rosy Cross is descended from
