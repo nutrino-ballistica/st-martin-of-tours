@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4093d7f35c2553fbca6",
+    "revision": "2f391c26f1a7c46dccfb",
     "url": "/css/app.1f2b019e.css"
   },
   {
-    "revision": "cf0eff12a230b4f28b9a",
+    "revision": "d7b6e57376cf96d8983e",
     "url": "/css/church.bae0f005.css"
   },
   {
-    "revision": "97be19e7d4c2a8468745",
+    "revision": "a17475bd92e68c2b83a4",
     "url": "/css/contact.706116e4.css"
   },
   {
-    "revision": "5dbffa6dc8b2d5c38ecc",
+    "revision": "b4977e7a34e3dae9d024",
     "url": "/css/worship.c3ae8672.css"
   },
   {
@@ -68,32 +68,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/pelican.a1a26a3b.jpg"
   },
   {
-    "revision": "5749e5acc112bda32ce12f20fceef733",
+    "revision": "6f68d230a817cdeda2f0dbf71328f82f",
     "url": "/index.html"
   },
   {
-    "revision": "e4093d7f35c2553fbca6",
-    "url": "/js/app.4fc2af7c.js"
+    "revision": "2f391c26f1a7c46dccfb",
+    "url": "/js/app.dcd1784e.js"
   },
   {
     "revision": "a3669cc3eec4de9b1d2c",
     "url": "/js/chunk-vendors.8684e4fa.js"
   },
   {
-    "revision": "cf0eff12a230b4f28b9a",
-    "url": "/js/church.fb578649.js"
+    "revision": "d7b6e57376cf96d8983e",
+    "url": "/js/church.65b29207.js"
   },
   {
-    "revision": "97be19e7d4c2a8468745",
-    "url": "/js/contact.9132ee7e.js"
+    "revision": "a17475bd92e68c2b83a4",
+    "url": "/js/contact.74b60a12.js"
   },
   {
-    "revision": "31d89ee6542b5f948396",
-    "url": "/js/mission.1b6968bc.js"
+    "revision": "59898909c297108d81f9",
+    "url": "/js/mission.328a6a85.js"
   },
   {
-    "revision": "5dbffa6dc8b2d5c38ecc",
-    "url": "/js/worship.5e3dd648.js"
+    "revision": "b4977e7a34e3dae9d024",
+    "url": "/js/worship.53f86407.js"
   },
   {
     "revision": "70963b76dd51ec3da913d56e325fd536",

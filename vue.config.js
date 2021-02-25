@@ -1,12 +1,10 @@
 const SitemapPlugin = require('sitemap-webpack-plugin').default
-const paths = [
-  {
-    path: '/',
-    lastmod: new Date().toISOString().slice(0, 10),
-    priority: 0.8,
-    changefreq: 'hourly'
-  }
-]
+const paths = ['', 'church', 'worship', 'mission', 'contact'].map(path => ({
+  path: `/#/${path}`,
+  lastmod: new Date().toISOString().slice(0, 10),
+  priority: 0.8,
+  changefreq: 'hourly'
+}))
 
 module.exports = {
   configureWebpack: {
