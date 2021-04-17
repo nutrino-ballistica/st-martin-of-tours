@@ -38,8 +38,22 @@
     <p>Anyone who is sick, physically or spiritually, may request the anointing
     Sacrament of Unction for the healing of the sick.  Please contact the church
     to schedule this Sacrament.</p>
+
+    <Disclaimer />
   </div>
 </template>
+
+<script lang="ts">
+import Disclaimer from '@/components/Disclaimer.vue'
+import { Vue, Component } from 'vue-property-decorator'
+
+@Component({
+  components: {
+    Disclaimer
+  }
+})
+export default class Worship extends Vue {}
+</script>
 
 <style lang="less">
 .worship {
