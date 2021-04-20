@@ -5,7 +5,7 @@
     <p>
       Although St. Martin’s describes itself as “Gnostic,” we celebrate the Eucharist and other Sacraments in a
       fully conventional manner. As such, the form of our Mass would be familiar to anyone from the Roman
-      Catholic, Anglican/Epispcopalian, or Lutheran traditions – as, in fact, from many other established
+      Catholic, Anglican/Episcopalian, or Lutheran traditions – as, in fact, from many other established
       Christian denominations.
     </p>
 
