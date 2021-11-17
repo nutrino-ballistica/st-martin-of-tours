@@ -9,10 +9,8 @@
 
     <h3 class="section-title">Mass</h3>
 
-    <p>During the COVID pandemic, we have suspended our weekly Eucharist.
-    Instead, we are offering a weekly Zoom session on Thursday evenings at 8 PM
-    as a time for discussion, devotion, learning, and fellowship.  Please
-    contact us if you’d like to join our Zooms!</p>
+    <p>We are holding services on the first and third Wednesdays at 8pm at the
+    Auricle, located at 68 Kentucky Drive, Asheville, NC, 28806.</p>
 
     <h3 class="section-title">Marriage</h3>
 
