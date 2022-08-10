@@ -7,6 +7,7 @@ const paths = ['', 'church', 'worship', 'contact'].map(path => ({
 }))
 
 module.exports = {
+  publicPath: '/st-martin-of-tours',
   configureWebpack: {
     plugins: [
       new SitemapPlugin({
