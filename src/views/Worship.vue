@@ -9,8 +9,9 @@
 
     <h3 class="section-title">Mass</h3>
 
-    <p>We are holding services on the first and third Wednesdays at 8pm at the
-    Auricle, located at 68 Kentucky Drive, Asheville, NC, 28806.</p>
+    <p>We are holding services on fourth Thursdays at 7pm at the
+    Church of St. David, located at 53 Albert Joyner Sr. Road, Old Fort, NC
+    28711.</p>
 
     <h3 class="section-title">Marriage</h3>
 
