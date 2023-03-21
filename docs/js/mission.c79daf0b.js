@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mission"],{"486a":function(n,e,t){"use strict";t.r(e);var o=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("p",[n._v(" To spread the Light of Gnosis through the offering of the Sacraments and by creating an open community of support, devotion, and learning. ")])},a=[],i=t("2877"),r={},s=Object(i["a"])(r,o,a,!1,null,null,null);e["default"]=s.exports}}]);
-//# sourceMappingURL=mission.08b61248.js.map
+//# sourceMappingURL=mission.c79daf0b.js.map
